@@ -1,6 +1,6 @@
 [TOC]
 
-#FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference
+# FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference
 
 ## 问题/启发/注意点
 
